@@ -28,7 +28,8 @@
   input {
     @apply outline-none w-full max-w-[160px] px-4 py-3 text-off-black text-[20px] border border-solid border-light-grey rounded-lg
           focus:border-purple
-            sm:text-[32px];
+            sm:text-[32px]
+            md:px-6;
   }
 }
 
